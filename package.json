@@ -1,0 +1,35 @@
+{
+  "name": "coin-toss",
+  "version": "0.0.1",
+  "description": "Toss a coin.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lambtron/coin-toss.git"
+  },
+  "keywords": [
+    "coin",
+    "toss",
+    "cointoss",
+    "heads",
+    "tails",
+    "half",
+    "fifty",
+    "percent",
+    "random",
+    "number",
+    "true",
+    "false",
+    "boolean"
+  ],
+  "author": {
+    "name": "Andy Jiang",
+    "email": "andyjiang@gmail.com",
+    "url": "http://www.andyjiang.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lambtron/coin-toss/issues"
+  },
+  "homepage": "https://github.com/lambtron/coin-toss"
+}
