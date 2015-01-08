@@ -8,6 +8,16 @@
 npm install --save coin-toss
 ```
 
+## Usage
+
+```
+var coin = require('coin-toss');
+
+console.log(coin.isHeads); // `true` or `false`
+
+console.log(coin.toss); // `'heads'` or `'tails'`
+```
+
 ### .isHeads()
 
 Returns `true` if coin toss returns heads, `false` if coin toss returns tails.
