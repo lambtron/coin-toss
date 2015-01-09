@@ -1,6 +1,6 @@
 {
   "name": "coin-toss",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Toss a coin.",
   "main": "lib/index.js",
   "repository": {

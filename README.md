@@ -24,6 +24,10 @@ console.log(coin.toss()); // `'heads'` or `'tails'`
 
 Returns `true` if coin toss returns heads, `false` if coin toss returns tails.
 
+### .isTails()
+
+Returns `true` if coin toss returns tails, `false` if coin toss returns heads.
+
 ### .toss()
 
 Returns `'heads'` or `'tails'`.
