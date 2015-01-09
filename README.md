@@ -13,9 +13,11 @@ npm install --save coin-toss
 ```
 var coin = require('coin-toss');
 
-console.log(coin.isHeads); // `true` or `false`
+console.log(coin.isHeads()); // `true` or `false`
 
-console.log(coin.toss); // `'heads'` or `'tails'`
+console.log(coin.isTails()); // `true` or `false`
+
+console.log(coin.toss()); // `'heads'` or `'tails'`
 ```
 
 ### .isHeads()
